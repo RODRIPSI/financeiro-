@@ -1,7 +1,7 @@
 {
   "id": "/financeiro-/",
-  "name": "Meu Financeiro · Rodrigo & Douglas",
-  "short_name": "R&D Financeiro",
+  "name": "Meu Financeiro",
+  "short_name": "Financeiro",
   "description": "Contas, cartões, extratos e recados do casal.",
   "lang": "pt-BR",
   "start_url": "/financeiro-/",
